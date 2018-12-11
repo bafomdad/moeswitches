@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,powered=false": { "model": "moeswitches:moeplate_wooden_up", "y": 180 },
+        "facing=south,powered=true": { "model": "moeswitches:moeplate_wooden_down", "y": 180 },
+		"facing=west,powered=false": { "model": "moeswitches:moeplate_wooden_up", "y": 270 },
+        "facing=west,powered=true": { "model": "moeswitches:moeplate_wooden_down", "y": 270 },
+		"facing=north,powered=false": { "model": "moeswitches:moeplate_wooden_up" },
+        "facing=north,powered=true": { "model": "moeswitches:moeplate_wooden_down" },
+		"facing=east,powered=false": { "model": "moeswitches:moeplate_wooden_up", "y": 90 },
+        "facing=east,powered=true": { "model": "moeswitches:moeplate_wooden_down", "y": 90 }
+    }
+}

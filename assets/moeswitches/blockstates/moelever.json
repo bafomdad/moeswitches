@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=down_z,powered=false": { "model": "moeswitches:moelever_off", "x": 270, "y": 180 },
+        "facing=down_x,powered=false": { "model": "moeswitches:moelever_off", "x": 270, "y": 90 },
+        "facing=up_z,powered=false": { "model": "moeswitches:moelever_off", "x": 90 },
+        "facing=up_x,powered=false": { "model": "moeswitches:moelever_off", "x": 90, "y": 270 },
+        "facing=east,powered=false": { "model": "moeswitches:moelever_off", "x": 0, "y": 270 },
+        "facing=west,powered=false": { "model": "moeswitches:moelever_off", "x": 0, "y": 90 },
+        "facing=south,powered=false" : { "model": "moeswitches:moelever_off", "x": 0, "y": 0 },
+        "facing=north,powered=false" : { "model": "moeswitches:moelever_off", "x": 0, "y": 180 },
+        "facing=down_z,powered=true" : { "model": "moeswitches:moelever", "x": 270, "y": 180 },
+        "facing=down_x,powered=true" : { "model": "moeswitches:moelever", "x": 270, "y": 90 },
+        "facing=up_z,powered=true": { "model": "moeswitches:moelever", "x": 90 },
+        "facing=up_x,powered=true": { "model": "moeswitches:moelever", "x": 90, "y": 270 },
+        "facing=east,powered=true": { "model": "moeswitches:moelever", "x": 0, "y": 270 },
+        "facing=west,powered=true": { "model": "moeswitches:moelever", "x": 0, "y": 90 },
+        "facing=south,powered=true": { "model": "moeswitches:moelever", "x": 0, "y": 0 },
+        "facing=north,powered=true": { "model": "moeswitches:moelever", "x": 0, "y": 180 }
+    }
+}

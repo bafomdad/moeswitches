@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moeswitches",
+  "name": "Moe Switches",
+  "description": "uguuu~",
+  "version": "1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bafomdad"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

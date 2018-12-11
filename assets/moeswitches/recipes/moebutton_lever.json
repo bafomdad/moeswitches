@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "moeswitches:moelever"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:painting"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

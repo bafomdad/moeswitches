@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "moeswitches:moebutton_stone"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "minecraft:painting"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

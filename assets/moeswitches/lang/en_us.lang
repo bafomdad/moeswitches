@@ -1,0 +1,16 @@
+# BLOCKS
+tile.moeswitches.moebuttonstone.name=Stone Button (Moe)
+tile.moeswitches.moebuttonwooden.name=Wooden Button (Moe)
+tile.moeswitches.moeplatestone.name=Stone Pressure Plate (Moe)
+tile.moeswitches.moeplatewooden.name=Wooden Pressure Plate (Moe)
+tile.moeswitches.moelever.name=Lever (Moe)
+
+# CHAT
+moeswitches.message.lever.on=D-don't forget to turn me off, okay?
+moeswitches.message.lever.off=Why don't you flip me, senpai?~
+moeswitches.message.woodplate.off=P-please come back again, okay?
+moeswitches.message.woodplate.on=Oh yes~ please step on me!
+moeswitches.message.stoneplate.off=aahn..that's all?
+moeswitches.message.stoneplate.on=mmfn..that's the spot right there~
+moeswitches.message.woodbutton=*angry button noises*
+moeswitches.message.stonebutton=Y-you're really pushing my buttons, baka!

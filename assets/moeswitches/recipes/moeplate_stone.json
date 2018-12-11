@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "moeswitches:moeplate_stone"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    {
+      "item": "minecraft:painting"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

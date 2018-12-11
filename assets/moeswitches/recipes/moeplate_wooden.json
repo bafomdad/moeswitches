@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "moeswitches:moeplate_wooden"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_pressure_plate"
+    },
+    {
+      "item": "minecraft:painting"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}
